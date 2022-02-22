@@ -1,0 +1,243 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A funeral sermon preach'd on the decease of Grace Lady Gethin, wife of Sir Richard Gethin, Baronet, on the 28 day of March, 1700 at Westminster-Abby and for perpetuating her memory a sermon is to be preach'd in Westminster-Abby, yearly, on Ash-Wednesday for ever / by Dr. Birch ...</title>
+            <author>Birch, Peter, 1652?-1710.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1700</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 34 KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A28180</idno>
+            <idno type="STC">Wing B2937</idno>
+            <idno type="STC">ESTC R23089</idno>
+            <idno type="EEBO-CITATION">12749170</idno>
+            <idno type="OCLC">ocm 12749170</idno>
+            <idno type="VID">93317</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A28180)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 93317)</note>
+            <note>Images scanned from microfilm: (Early English books, 1641-1700 ; 375:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A funeral sermon preach'd on the decease of Grace Lady Gethin, wife of Sir Richard Gethin, Baronet, on the 28 day of March, 1700 at Westminster-Abby and for perpetuating her memory a sermon is to be preach'd in Westminster-Abby, yearly, on Ash-Wednesday for ever / by Dr. Birch ...</title>
+                  <author>Birch, Peter, 1652?-1710.</author>
+               </titleStmt>
+               <extent>[8], 28 [i.e. 24] p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by D. Edwards ...,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1700.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Reproduction of original in Huntington Library.</note>
+                  <note>Marginal notes.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Gethin, Grace, --  Lady, 1676-1697.</term>
+               <term>Funeral sermons.</term>
+               <term>Sermons, English.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-12</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2013-01</date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-03</date>
+            <label>Leah Yurasek</label>Sampled and proofread</change>
+         <change>
+            <date>2013-03</date>
+            <label>Leah Yurasek</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:93317:1"/>
+            <pb facs="tcp:93317:1"/>
+            <p> A Funeral Sermon Preach'd on the Deceaſe of GRACE Lady GETHIN, WIFE of Sir <hi>RICHARD GETHIN,</hi> Bar<hi rend="sup">onet,</hi> On the 28 day of <hi>March,</hi> 1700. at <hi>Weſtminſter-Abby:</hi> And for perpetuating Her Memory a Sermon is to be Preach'd in <hi>Weſtminſter-Abby,</hi> yearly, on <hi>Aſh-Wedneſday</hi> for Ever.</p>
+            <p>By Dr. <hi>Birch,</hi> Prebend of <hi>Weſtminſter.</hi>
+            </p>
+            <p>
+               <hi>LONDON:</hi> Printed by <hi>D. Edwards</hi> in <hi>Nevils-Ally</hi> in <hi>Fetter-Lane.</hi> 1700.</p>
+            <pb facs="tcp:93317:2"/>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:93317:2"/>
+            <head>
+               <hi>To the Honoured the Lady</hi> Norton.</head>
+            <p>THis Sermon lately recommended to Your Ladyſhips <hi>Ear</hi> from the <hi>Pulpit,</hi> is now preſented to Your <hi>Eye</hi> from the Preſs; and it comes to Your Hand as now it ſhould do, dreſſed up, like <hi>Se<g ref="char:EOLhyphen"/>cond Mourning,</hi> in <hi>Black</hi> and <hi>White.</hi> 'Tis hoped that this Diſ<g ref="char:EOLhyphen"/>courſe, being now not tranſient, but fixed; if often read and du<g ref="char:EOLhyphen"/>ly weighed, will by degrees, if not <hi>quite remove,</hi> yet at leaſt, <hi>much abate</hi> the Exceſs of Sorrow, which the ſubject of it hath occaſio<g ref="char:EOLhyphen"/>ned.</p>
+            <p>'Tis true you have loſt a Child; and for ſuch loſſes <hi>Nature</hi> requires and <hi>Grace</hi> allows ſome Tears, but <hi>Reaſon</hi> and <hi>Religion</hi> too, forbid too many. In this Caſe our Eye ſhould be like an <hi>Alem<g ref="char:EOLhyphen"/>bick;</hi> which ſoftly diſtils ſome gentle <hi>Drops;</hi> but not like an o<g ref="char:EOLhyphen"/>pen <hi>Flood<g ref="char:punc">▪</g>gate,</hi> which pours out a <hi>Deluge.</hi> A perfect <hi>Indolence</hi> and Inſenſibility for the Death of our near Relations, would ar<g ref="char:EOLhyphen"/>gue us to be no better than ſottiſh <hi>Stoicks;</hi> but an <hi>Exceſſive Sor<g ref="char:EOLhyphen"/>row</hi> would be an evidence that we are not <hi>ſuch Chriſtians</hi> as in<g ref="char:EOLhyphen"/>deed we muſt be. For, to Mourn without Meaſure, is no leſs than to ſhew our ſelves diſſatisfied with the Providences of God to which a meek ſubmiſſion is due, becauſe they are always moſt Wiſe, Juſt, and Holy.</p>
+            <p>'Tis granted, that You have loſt ſuch a Daughter as was more <hi>Ingenious</hi> than the moſt of <hi>Women,</hi> and more <hi>Religious</hi> than the moſt of <hi>Ladies;</hi> One that helped to <hi>Support</hi> the World by Her <hi>Prayers,</hi> and <hi>Reform</hi> it by Her <hi>Example;</hi> but what then? Me<g ref="char:EOLhyphen"/>thinks Your Reflections upon Her Eminent Vertues, and the Glori<g ref="char:EOLhyphen"/>ous Conſequences of them, ſhould rather <hi>Sweeten</hi> than <hi>Imbitter</hi> Your Thoughts of Her Mortality.</p>
+            <pb facs="tcp:93317:3"/>
+            <p> And will Your Ladyſhip Reply to all this, that the Curcumſtance of <hi>Time</hi> doth add ſuch an aggravation to Your loſs, that You know not how to bear it? Indeed Your Excellent Daughter, like an <hi>Early Roſe,</hi> was cropt, tho' not in Her <hi>Firſt Bud,</hi> yet in the Prime <hi>Flow<g ref="char:EOLhyphen"/>er</hi> of Her Age; but did you love her, and yet think that ſhe could be happy too <hi>ſoon?</hi> Her Paſſage thro' this World to a Better be<g ref="char:EOLhyphen"/>ing very <hi>Safe,</hi> can you grieve that it proved ſo <hi>quick?</hi> Is it Your trouble that a Child of Yours ſhould become a Glorious Saint too <hi>Early?</hi> Will you ſtill take on and Mourn, becauſe Your young Daughter hath got the ſtart, out-run her Mother, and hath <hi>firſt</hi> arrived at Heaven?</p>
+            <p>But perhaps your ſharpeſt ſting which Wounds you deepeſt, doth yet ſtick behind; I mean, that this young Lady, whom you have <hi>loſt</hi> or rather <hi>parted with</hi> for a little while; was Your <hi>only</hi> Daughter, nay, Your only Child, the Centre of Your Love, the very Quinteſſence of Your Delight and Pleaſure; and if ſo, how can you bear her departure from you?</p>
+            <p>Pray tell me, how patiently did <hi>Job</hi> bear the death of <hi>all</hi> his Children at once, who did not die according to the courſe of Nature, as your Daughter did, but on a ſudden, without any warning of it, without any actual Preparation for it? With what Alacrity of Mind did <hi>Abraham</hi> ſtretch forth his Hand to cut the Throat of his <hi>only</hi> Son, when God required his Blood for a Sacrafice? Nay, did not even <hi>God Himſelf</hi> for Your ſake freely give his <hi>only</hi> Son, and will not you Reſign up to him Your <hi>only</hi> Daughter; and the rather, becauſe he called for her to her great Advantage?</p>
+            <p>For the Text, Choſen to be the Subject of this Diſcourſe, doth plainly tell you, <hi>Bleſſed are the dead, that die in the Lord.</hi> But who are they? Certainly they who <hi>live</hi> in the Lord, <hi>i. e.</hi> by the Power of his Grace, according to thoſe Rules, which he hath gi<g ref="char:EOLhyphen"/>ven us, and that Example, which he hath left us; and was not
+<pb facs="tcp:93317:3"/> Your Daughter one of that Bleſſed Number? Are you not con<g ref="char:EOLhyphen"/>vinced that ſhe was <hi>free</hi> from <hi>Vice,</hi> and <hi>full</hi> of <hi>Vertue,</hi> Pious towards her God, juſt towards all Mankind, and as to the Poor, Charitable, I had almoſt ſaid, even to a <hi>Fault;</hi> now, ſince She thus <hi>liv'd in the Lord,</hi> She muſt needs <hi>die</hi> in the Lord too; and conſequently you may pronounce Her Bleſſed.</p>
+            <p>'Tis obſervable that the Text doth not ſay, <hi>They that die in the Lord, ſhall be bleſſed hereafter.</hi> But they are bleſſed actual<g ref="char:EOLhyphen"/>ly, and at preſent Real Saints yet <hi>alive,</hi> have a Title to Eternal Glory only in <hi>Reverſion,</hi> but <hi>departed</hi> Saints have it in <hi>Poſ<g ref="char:EOLhyphen"/>ſeſſion;</hi> and ſince that is Your Daughters Caſe, ſhed no more Tears, unleſs they be Tears of <hi>Joy,</hi> Superlative Joy indeed, that you have a Child, who is now more happy in <hi>Abraham's Boſom,</hi> than She ever was, or ever could have been in <hi>Your own;</hi> a Child, who now dwells with God, and Converſes with thoſe Glo<g ref="char:EOLhyphen"/>rious Angels, who are the <hi>Peers</hi> of God's Kingdom, and the <hi>No<g ref="char:EOLhyphen"/>bles</hi> of the Court of Heaven; a Child Inrolled in the Liſt of <hi>Glo<g ref="char:EOLhyphen"/>rified Saints,</hi> and is become one of that <hi>Coeleſtial Choir,</hi> who Sing <hi>Hallelujah to Him, that Sits upon the Throne, and to the Lamb for Ever.</hi>
+            </p>
+            <p>In ſhort, the Text ſaith of all departed Saints, <hi>they reſt from their Labours;</hi> from all the painful Services, Toils, Drudge<g ref="char:EOLhyphen"/>ries, and Troubles of this miſerable World; and if ſo, methinks the Meditation of Your <hi>Daughters Eternal Reſt,</hi> ſhould not <hi>In<g ref="char:EOLhyphen"/>terrupt,</hi> but rather <hi>Sublimate</hi> and Advance <hi>Your own,</hi> even till that Bleſſed day ſhall come, wherein you and your Daugh<g ref="char:EOLhyphen"/>ter, and all Righteous Souls ſhall meet again in that Place of Bliſs, and part no more for ever.</p>
+            <p>And as the preſent <hi>Enjoyment</hi> of her Happineſs, ſo the very <hi>manner</hi> of her firſt <hi>Entrance</hi> into it, ſhould be a great Satisfaction to you, Her <hi>Life</hi> being ſo <hi>Divine,</hi> Her <hi>latter</hi>
+               <pb facs="tcp:93317:4"/> 
+               <hi>End</hi> was not only <hi>Safe,</hi> not only <hi>Comfortable,</hi> but <hi>Illuſtri<g ref="char:EOLhyphen"/>ous;</hi> She did not paſs like common Mortals thro' the <hi>Sha<g ref="char:EOLhyphen"/>dow,</hi> but through the <hi>Sun-Shine</hi> of Death. For, during Her Sickneſs, eſpecially upon Her Devout Reception of the Holy Sacrament, She was ſo <hi>Tranſported</hi> with <hi>Joy,</hi> ſo <hi>Raviſhed</hi> with the <hi>fore-taſt</hi> of Heaven, and the near Proſpect of Her then approaching Glory; as if with Good old <hi>Simeon</hi> She had already embraced Her dear Saviour in Her Boſom; as if with St. <hi>Paul</hi> She had been rapt up into Paradiſe; as if with St. <hi>Stephen</hi> She had ſeen Heaven opened, and the Son of Man ſtanding ready to entertain Her.</p>
+            <p>Thus She lived and thus She died without the leaſt reluctan<g ref="char:EOLhyphen"/>cy; Her <hi>Lamp</hi> expired without a <hi>Blaſt,</hi> Her <hi>Glaſs</hi> most free<g ref="char:EOLhyphen"/>ly run out without a <hi>Shake;</hi> to Her, under ſuch bleſſed Cir<g ref="char:EOLhyphen"/>cumſtances, to die was nothing elſe but to lie down in Her <hi>Bed</hi> and fall faſt a <hi>Sleep.</hi>
+            </p>
+            <p>Now ſince Your dear Daughter hath ſo happily <hi>Cloſed</hi> Her <hi>own</hi> Eyes, be pleaſed <hi>Good Madam,</hi> as to <hi>Tears,</hi> to <hi>Shut</hi> up Yours; be pleaſed to beſpeak Your ſelf and all Your Mourn<g ref="char:EOLhyphen"/>ers, as a <hi>Spartane Lady</hi> once did in the ſame Caſe. <hi>Flete alios,</hi> &amp;c. <hi>Go Weep for others, My Daughter doth need no Tears.</hi> So Prays at the Throne of Grace, for Your Ladyſhips Health and Happineſs, both in this World and the next,</p>
+            <closer>
+               <salute>Honoured Madam</salute>
+               <signed>Your Ladyſhips moſt Humble Servant, <hi>F. G.</hi>
+               </signed>
+            </closer>
+         </div>
+         <div type="text">
+            <pb facs="tcp:93317:4"/>
+            <head>INSCRIPTION on the Lady <hi>Gethins</hi> Monument; On the <hi>South-Side</hi> of <hi>Weſtminſter-Abby.</hi>
+            </head>
+            <p>TO the Pious Memory of Dame <hi>Grace Gethin,</hi> Wife of Sir <hi>Richard Gethin,</hi> of <hi>Gethin-Grott</hi> in <hi>Ireland,</hi> Bar<hi rend="sup">nt</hi> Daugh<g ref="char:EOLhyphen"/>ter of Sir <hi>George Norton,</hi> Knight and Bar<hi rend="sup">nt</hi> and Grand-Daugh<g ref="char:EOLhyphen"/>ter of Sir <hi>George Norton,</hi> Knight, and Great Grand-Daughter of Sir <hi>William Owen</hi> of <hi>Salop,</hi> Sir <hi>Thomas Freak</hi> of <hi>Dorſet,</hi> and Sir <hi>Thomas Culpeper</hi> of <hi>Kent,</hi> Knights. Who being Adorned with all Graces and Perfections of Mind and Body, Crown'd them all with Exemplary Patience and Humility; and having the day before her Death moſt devoutly receiv'd the <hi>Holy Com<g ref="char:EOLhyphen"/>munion,</hi> which ſhe ſaid, ſhe would not have omitted for ten thouſand Worlds; ſhe plainly evidenced Her ſure and certain hope of future Bliſs; And thus continuing ſenſible to the laſt. She reſign'd her Pious Soul to God in fervent Tranſports of Spi<g ref="char:EOLhyphen"/>ritual Joy and Comfort, for her near Approach to the Heaven<g ref="char:EOLhyphen"/>ly Glory.</p>
+            <p>
+               <hi>Obiit October</hi> the 11th in the Year of her Age 21 of our Lord, 1697.</p>
+            <p>Her Diſconſolate and Afflicted Parents, for a laſting Me<g ref="char:EOLhyphen"/>morial of this Her Godly and Bleſſed End, Erected this Mo<g ref="char:EOLhyphen"/>nument; She being the laſt of their Iſſue.</p>
+            <pb facs="tcp:93317:5"/>
+         </div>
+      </front>
+      <body>
+         <div type="sermon">
+            <pb n="1" facs="tcp:93317:5"/>
+            <epigraph>
+               <bibl>REV. 14. 13.</bibl>
+               <q>And I heard a voice from Heaven, ſaying unto me, Write, Bleſſed are the dead that die in the Lord from henceforth; Yea ſaith the Spirit, that they may rest from their Labours, and their Works do follow them.</q>
+            </epigraph>
+            <p>THIS is a Triumphant Hymn over Death, the King of Terrors, and the laſt Enemy of our Nature; and ſo have all regular Churches underſtood it; for they have long uſed it in their publick Offices, as an expreſſion of the firmneſs of their Faith, and the Alacri<g ref="char:EOLhyphen"/>ty of their Hope; that this Mortal ſhould put on Immortality, and that which is now ſown in Corruption ſhall be raiſed up in Glory. And of this we are aſſu<g ref="char:EOLhyphen"/>red by St. <hi>John,</hi> beyond the poſſibility of
+<pb n="2" facs="tcp:93317:6"/> miſtake; I, ſays he, heard a Voice from Heaven, ſaying unto me, Bleſſed are the dead: And this wonderful Sentences which only Heaven could Reveal, was immediately ratified, yea, ſaith the Spirit, that they may reſt from their Labours.</p>
+            <p>A Conſolation ſo ſtrong amongſt thoſe who firſt receiv'd it, that of old they ſeemed Ambitious of a preference in Death, and ſo to rejoyce in the Tribula<g ref="char:EOLhyphen"/>tion as to tempt their Fate, and run too faſt to the Crown. They knew not the modern Arts to cover Infidelity, or thought it became them to diſſemble in the preſence of their greateſt Foes, but gave up their lives unto Death, and re<g ref="char:EOLhyphen"/>joyced they were counted worthy to loſe them. Hence came thoſe Holy Cuſtoms of attending the Dead with Thankſgive<g ref="char:EOLhyphen"/>ings, of yearly Celebrating the remem<g ref="char:EOLhyphen"/>brance of Martyrs Agonies, of burying the remains of their Bodies under their
+<pb n="3" facs="tcp:93317:6"/> Altars, of making the days of their Death Feſtivals, and the places of their Burial Churches.</p>
+            <p>This was the Practice of an undefiled Chriſtianity, and it often awakened the obſervation of unbelievers to enquire in<g ref="char:EOLhyphen"/>to the reaſons, why the faithful eſteem'd them Bleſſed whoſe end ſeem'd to be without Honour; nay, we often read that this lead them on to Conviction, and ſo the Blood of Martyrs became the Seed of the Church. As for thoſe who wiſh theſe Honours had not been paid to the Saints departed, and who refuſe to con<g ref="char:EOLhyphen"/>tinue them, they do alone by conſequence, as wiſh their Religion had not prevail'd; and as for thoſe dumb Funerals they would introduce in their ſtead, theſe expreſs neither Faith nor Hope; nor is it imagi<g ref="char:EOLhyphen"/>nable what ſuch a ſtupid Cuſtom can ex<g ref="char:EOLhyphen"/>preſs, but only the Pleaſure of Contradi<g ref="char:EOLhyphen"/>ction at parting.</p>
+            <pb n="4" facs="tcp:93317:7"/>
+            <p> As to the Senſe and Connexion of the Words, they are part of a Prophecy, ſo hard to be underſtood, that it may well excuſe all pretence to a ſtrict Interpretati<g ref="char:EOLhyphen"/>on. But in general they ſeem intended for a preſent Comfort to the Chriſtians of that early Age, who were appointed to bear the weight of the ſucceeding Per<g ref="char:EOLhyphen"/>ſecutions, and had need of all the Faith and Patience of Saints to ſupport them. The Title at leaſt (c. 1.) only ſpeaks of things that muſt ſhortly come to paſs, and ſo the moſt antient Writers that beſt knew the Language of the times, Interpret it. In their Senſe the fall of <hi>Babylon</hi> was that of Heathen <hi>Rome,</hi> with the Idolatry it ſupported, and the Planting of the Faith of Chriſt in its place, was making all things New; and this is a Senſe which it is poſſible to underſtand ſtill; but to kill the Witneſſes of the Church Univerſal in the corner of an Iſland, or to make <hi>Scot<g ref="char:EOLhyphen"/>land</hi>
+               <pb n="5" facs="tcp:93317:7"/> or <hi>Genva</hi> ſit Scenes for all the mighty and ſurpriſing Events that are here re<g ref="char:EOLhyphen"/>corded, this is a Modern and ſtill undi<g ref="char:EOLhyphen"/>geſted thought; one that ſeems intend<g ref="char:EOLhyphen"/>ed to make Court to Friends, but hath certainly made ſport for Enemies.</p>
+            <p>Whatever is the Deſign, we are ſure of the Event, Bleſſed are the dead which die in the Lord and not in their Sins; and in that Latitude it is a noble Teſtimo<g ref="char:EOLhyphen"/>ny to the certainty of our future Reward. For;</p>
+            <p n="1">1. The diſtinction is here made that will divide all Mankind for Ever; none are pronounced Bleſſed except thoſe who die in the Lord, and are Members of his Body; which is excluſive of all others whatſoever. It is not a promiſcuous bleſ<g ref="char:EOLhyphen"/>ſing that ſhall fall indifferently upon the Good and the Bad, like that of the Sun or the Rain; but the Foundation of God ſtandeth ſure, he knoweth who are his,
+<pb n="6" facs="tcp:93317:8"/> and 'tis happy for us he does ſo, becauſe by this the Righteous are aſſured that they ſhall not always be vexed with the filthy Converſation of the Wicked.</p>
+            <p n="2">2. The Sentence is again ratified by the ſame Divine Authority, and that ſo<g ref="char:EOLhyphen"/>lemn Repetition is not in vain, for it is the true and proper Foundation of Faith. The Voice commands St. <hi>John</hi> to Write tha ſtrange Propoſition, Bleſſed are the dead for a laſting Memorial, and the An<g ref="char:EOLhyphen"/>ſwer of the Spirit confirms it, as a Matter ſo important, that it could not be too often inculcated. And,</p>
+            <p n="3">3. The ſubſtance of this Anſwer, name<g ref="char:EOLhyphen"/>ly, our reſting from Labour, and having our Works to follow us, ſuggeſts the beſt Method of conceiving what the hap<g ref="char:EOLhyphen"/>pineſs of another World is; for ſo far as our ſhort Conception reaches, a Man can Enjoy no more even in deſire, than to reſt from the Evil that attends our imper<g ref="char:EOLhyphen"/>fect
+<pb n="7" facs="tcp:93317:8"/> State, and to have all his Good to follow him. And,</p>
+            <p n="1">1. We are never to forget unto whom alone the Bleſſing is confined; for it is at the Peril of our Souls, and of all the dreadful Conſequences which attend the loſs of them, that we remember the di<g ref="char:EOLhyphen"/>ſtinction. The Caution perhaps may not ſeem pertinent to him that conſiders only how plain it is in Speculation, but there is a continual uſe of it when reduc'd unto Practice, or the uſes of Life. There every Profeſſion of Religion agrees in flatter<g ref="char:EOLhyphen"/>ing themſelves; they Magnifie their Pri<g ref="char:EOLhyphen"/>viledges to the prejudice of their Duty, and generally are much fonder of being thought in the right way than of walk<g ref="char:EOLhyphen"/>ing in it; hence we find ſo ſevere Guards planted againſt Hereſie, by thoſe who never regard the worſt of all, for doubt<g ref="char:EOLhyphen"/>leſs no Hereſie is ſo dangerous as to hate to be reformed; and hence ſo many are
+<pb n="8" facs="tcp:93317:9"/> fond of all Remedies, but that alone which can do them good.</p>
+            <p>Give me leave then to bring to your remembrance what the nature of every Promiſe from God is. It is properly a Co<g ref="char:EOLhyphen"/>venant, and ſuppoſes ſomething due on the part of Man to Entitle us to it; it is ever made by way of Reſtipulation, to quicken and not to abate our Induſtry, and conſequently there is no inconſiſtence between the Promiſe and the Condition.</p>
+            <p>Of this there can be no poſſible doubt where the Condition is expreſs'd, and to ſhew it muſt conſtantly be underſtood where it is not, we have the Authority of all the Wiſe and Good who have gone be<g ref="char:EOLhyphen"/>fore us; for they always underſtood them conditionally tho' never ſo abſolutely ſpo<g ref="char:EOLhyphen"/>ken. <hi>Jacob</hi> for example, was promiſed di<g ref="char:EOLhyphen"/>rectly <note place="margin">
+                  <hi>Gen.</hi> 32.</note> enough to be made a great Nation of, and bid to return into his Country for that End, but this hindred
+<pb n="9" facs="tcp:93317:9"/> not his appeaſing the wrath of <hi>Eſau</hi> with a chargeable Preſent: <hi>Joſhua</hi> had his Enemies put into his hands, therefore, ſays his Story, he came upon them alone ſuddenly, and went up from <hi>Gilgal</hi> all Night, or marched to ſurprize them; <hi>David</hi> was Anointed King by <hi>Samuel,</hi> and was acknowledged Succeſſor by <hi>Saul</hi> himſelf, and yet he made him Friends of the Elders of <hi>Iſrael,</hi> and raiſed an Ar<g ref="char:EOLhyphen"/>my to defend his Perſon: And to heap up no more Inſtances, it was revealed to <note place="margin">
+                  <hi>Act.</hi> 27.</note> St. <hi>Paul,</hi> that God had given him the Lives of all thoſe that ſailed in the Ship with him, but he yet took care to keep the Mariners Aboard, and truly affirms, except theſe abide in the Ship he cannot be ſaved. None of all theſe diſtruſted the Promiſe, but they rightly underſtood it, and he who does not underſtand it as they did, his Faith is Raſhneſs, and his Truſt is Folly; for he depends upon what was never promis'd him.</p>
+            <pb n="10" facs="tcp:93317:10"/>
+            <p> The Caſe is too plain for any to doubt but the willfully blind, and ſuch as have a mind to deceive themſelves; all others may ſee if they pleaſe, that there muſt ever be a reaſon for our hope, and that the Conditions muſt be firſt honeſtly performed before our claim to the Pro<g ref="char:EOLhyphen"/>miſe commences. But if this great Cir<g ref="char:EOLhyphen"/>cumſtance be once provided for, then our Faith ſoon overcomes the World, and all its difficvlties; What if no operation in Nature be known to us able to produce ſuch an effect as is a reſurrection of diſſi<g ref="char:EOLhyphen"/>pated parts? It is not therefore impoſſi<g ref="char:EOLhyphen"/>ble, as <hi>Pliny</hi> for that reaſon concludes it, <note place="margin">
+                  <hi>l.</hi> 2.</note> for we are to eſteem things poſſible or impoſſible by the Power of God. What if a thoughtleſs, unprincipled Pretender to Philoſophy ſays he cannot ſee the con<g ref="char:EOLhyphen"/>ſequence in St. <hi>Paul</hi>'s Argument, that as in <hi>Adam</hi> all die, ſo in Chriſt ſhall be made alive? Yet I hope wiſer Men may,
+<pb n="11" facs="tcp:93317:10"/> for all Men are virtually in their Repre<g ref="char:EOLunhyphen"/>ſentatives, and it is altogether as much an Equity to abſolve when the price of our Redemption is paid, as to hold us in Bondage for want of it. The very diſ<g ref="char:EOLhyphen"/>charge of our Surety demonſtrates a full ſatisfaction to be made for the Sins of the World; for had he been holden of Death, like the reſt of Men, we could never have been certain that the Sins for which he ſuffered were not his own.</p>
+            <p>If then we are numbred with his Saints we need not ſuſpect our reward; For</p>
+            <p n="2">2. A Voice from Heaven records the Sentence, and the Spirit immediately confirms it; <hi>Bleſſed are the Dead.</hi>
+            </p>
+            <p>And happy is it for us that this is the Voice of Heaven, and not the vain boaſt of one of the Sons of Earth. For us weak Men to call any Bleſſed, is but to de<g ref="char:EOLhyphen"/>clare our opinion that they are ſo; but with the Word of God is Power, with him it
+<pb n="12" facs="tcp:93317:11"/> is the ſame thing to ſpeak and to create. He that holds the Keys of Hell and of Death, can with the very ſame eaſe ſay to the Dead, be Bleſſed, and it ſhall be ſo, as he did in the Beginning, Let there be Light, and it was ſo.</p>
+            <p>And therefore this alone is the true Foundation of a Chriſtian's Faith. Till Life and Immortality were brought to light through the Goſpel, Mankind ſaw nothing in the Grave but Corruption. <hi>Tertullian</hi> affirms of the Heathen World, that they denied the Reſtitution of the Fleſh with a general Conſent, and when St. <hi>Paul</hi> Preached Jeſus and the Reſur<g ref="char:EOLhyphen"/>rection <note place="margin">
+                  <hi>Act.</hi> 17.</note> at <hi>Athens</hi> it ſelf, ſome mocked, and others took them for a couple of new Gods. And as for thoſe well-meaning triflers in Divinity among our ſelves, who have the Will and determination of God to ſupport their Faith, and yet will be fooliſhly hewing out to themſelves Ci<g ref="char:EOLhyphen"/>ſterns
+<pb n="13" facs="tcp:93317:11"/> that will hold no Water, let us but conſider to what all their other Argu<g ref="char:EOLhyphen"/>ments for a Reſurrection do amount.</p>
+            <p>The World, ſay they, ſubſiſts by a con<g ref="char:EOLhyphen"/>ſtant ſucceſſion of Reſurrections; day dies into night and riſes again into morning, winter is a general Sepulcher, and the Spring opens the Grave to every Plant, the corruption of one Animal is the ge<g ref="char:EOLhyphen"/>neration of another; and many ignobler Creatures, many of the Beaſts of the Field, ſome of the Fowls of the Air, and divers plants of the Earth, outlive the Sons of Men. It is not therefore probable that this preſent life is proportionable to our Compoſition; for the Souls of Men are immortal, and being once Created, re<g ref="char:EOLhyphen"/>ceive a ſubſiſtence for Eternity; and con<g ref="char:EOLhyphen"/>ſequently ſince the Soul of Man is ſo ſoon forced from the Body, and cannot conti<g ref="char:EOLhyphen"/>nue with it half the years that other Crea<g ref="char:EOLhyphen"/>tures live, the reaſon of it muſt be, becauſe
+<pb n="14" facs="tcp:93317:12"/> this is not the only Life belonging to us. But yet all this is no more than probable, and what is probable may ſtill admit a doubt; it may perhaps entertain, but ex<g ref="char:EOLhyphen"/>cept we could bring more into the conclu<g ref="char:EOLhyphen"/>ſion than was in the premiſes, it can never force Aſſent.</p>
+            <p>It is alſo certain, that in this Life there is no juſt retribution either to the vertues or the vices of Men; the moſt Righteous are often full of troubles, and one Man ſometimes commits ſuch Sins as all the Puniſhments of this Life cannot equalize. Witneſs the Authors of Aſſaſſinations, and Tyrants that have deſtroyed whole Nations, and extirpated the Servants of God. If then they are not here recom<g ref="char:EOLhyphen"/>penſed as they deſerve, it is probable they will be hereafter; and if theſe things were done in the Body, it is fit that be joined alſo in the Puniſhment. But all this aſ<g ref="char:EOLhyphen"/>cends no higher than to a probability that
+<pb n="15" facs="tcp:93317:12"/> a full Amends ſhall be made in another State; for it gives us no infallible aſſu<g ref="char:EOLhyphen"/>rance that it ſhall be ſo.</p>
+            <p>Nay the very Power of God to raiſe the Dead only proves it poſſible, but not cer<g ref="char:EOLhyphen"/>tain; from his Power alone we can only conclude that we may riſe, but it is from his Will that we are ſure to do ſo; and that intention is only delivered in his Word.</p>
+            <p>It remains therefore that all the true ground of hope is, that ſo hath God ap<g ref="char:EOLhyphen"/>pointed, and ſo declared in his Word, and hath given aſſurance of it unto all Men by raiſing up Jeſus Chriſt. For no Argument is ſo convincing as a miracle in kind, to ſee a Man like our ſelves riſe again by a viſible experiment; becauſe that which hath been, may be again, and no objection is good againſt Experience.</p>
+            <p>In ſo weighty a caſe then as this is, we ought not to build upon any Foundation
+<pb n="16" facs="tcp:93317:13"/> that will not bear the Superſtructure, upon thin airy Speculations which only pleaſe the weak, but never ſatisfie the wiſe; our wiſdom is to paſs on from likelyhoods to full aſſurances, that we may dare to look Death in the Face, and be ſtedfaſt and unmovable when we do ſo.</p>
+            <p n="3">3. It remains in the laſt place that we alſo conſider the words as they are a full and adaequate deſcription of our future happineſs, or at leaſt ſuggeſt to us the beſt method of conceiving it; for to reſt from our Labours, and to have our works follow us, ſeems a diviſion that exhauſts the Subject, becauſe, let a Man call what he will his good or his evil, he can wiſh no more than to enjoy the one, and get rid of the other.</p>
+            <p>A reſt indeed from Labour is ſeldom apprehended, except by thoſe who have taſted a bitter Cup; and the poſſeſſion of good with the ſecurity of Enjpyment, is but rarely thought of by them that want
+<pb n="17" facs="tcp:93317:13"/> an Habit of taking care of themſelves. We need not then to wonder if the fools of Fortune are not commonly wiſe towards God: but he that can either reliſh a de<g ref="char:EOLhyphen"/>liverance or a Bleſſing, will not be trou<g ref="char:EOLhyphen"/>bled with a doubtful Choice, he will reach forth unto the things which are before, and forget the things that are behind.</p>
+            <p>It is true, what thoſe things are which are before, we cannot comprehend, and if we could they would not be ſo great. 'Tis in vain to attempt the deſcribing of a Life that is hid, or that World of Spirits which is Inviſible. All we Mortals know of the Regions above, and the Joys that are there, is, that they are not like our own; and he that pretends to more, muſt go thi<g ref="char:EOLhyphen"/>ther and fetch down the knowledge.</p>
+            <p>And yet that knowledge which is too wonderful for us, is no doubt familiar to that enlightned Soul which looks down and pities our blindneſs; I mean that Ex<g ref="char:EOLhyphen"/>cellent
+<pb n="18" facs="tcp:93317:14"/> Perſon who is gone before unto Glo<g ref="char:EOLhyphen"/>ry, and hath left us wretched Mortals to do Honour to her Memory.</p>
+            <p>Her Condition is now out of the reach of enquiry, above the Praiſes and much more above the Flatteries of Men. Such adulterate Arts are below the Dignity of the Subject, and the place we are in; may the Darkneſs cover them, and their ſound be no more heard in any Congregation of the Saints. But I hope it will not fall under the Cenſure, barely to name what it would be on this occaſion a Crime to Conceal.</p>
+            <p>Give me leave then to Obſerve, that the Deceaſed hath a juſt Title to all that the Civiliz'd part of the World requires, as due to Families of note and extraordi<g ref="char:EOLhyphen"/>nary Merit; being of a well known race, not only for its Wealth and Antiquity, but for its Loyalty too. If this honourable Character may ſtill be allowed its barren Praiſe, inſpight of that inſolent Faction,
+<pb n="19" facs="tcp:93317:14"/> who call it a juſter thing to have judged their King, than preſerved him.</p>
+            <p>To which if we add the Piety of her immediate Parents, in forming her tender Years to Virtue, and generouſly provid<g ref="char:EOLhyphen"/>ing to have the Memory of it Annually propagated; we need not ſcruple to call her Good and Pious by deſcent.</p>
+            <p>But ſhe had little need of turning the Atchievements of Anceſtors into a pro<g ref="char:EOLhyphen"/>perty: if a Stranger might be allowed to be particular in thoſe Graces in which her ſelf only had a Share. Let it ſuffice barely to name a natural probity of Tem<g ref="char:EOLhyphen"/>per, a Meek and Candid Behaviour, a remarkable Juſtice and Charity of Action, and above all a ſober unaffected Piety; which are but a part of her happy Cha<g ref="char:EOLhyphen"/>racter, and might every one be enlarged opon from an undoubted Teſtimony, would it not perhaps appear a betraying of Truth into the hands of Flattery.</p>
+            <pb n="20" facs="tcp:93317:15"/>
+            <p> All which therefore leſſens the wonder that her end was Peace, and a Peace that ſo filled the Mind, as made the beholders judge it a fore-taſte of her approaching Fe<g ref="char:EOLhyphen"/>licity. What thoſe joys were, becomes not us to define, for ſecret things belong to God; but we are to loſe no opportunity to think of the things which are com<g ref="char:EOLhyphen"/>manded us with Reverence.</p>
+            <p>Every ſolemnity of this kind allows us to ſee how frail and uncertain our own Condition is at anothers Expence, and he that is Wiſe will ponder theſe things. The moſt think of another World under a ge<g ref="char:EOLhyphen"/>neral repreſentment, and as of a thing wherein they have no perſonal Concern, but it is for want of numbring their days in this; would they wiſely retire out of the noiſe and tumult of the World, to compute how ſhort their days probably are, by how many unforeſeen Accidents they may be ſtill ſhorter, and that yet up<g ref="char:EOLhyphen"/>on
+<pb n="21" facs="tcp:93317:15"/> theſe uncertain moments of our proba<g ref="char:EOLhyphen"/>tion Eternity depends, this would al<g ref="char:EOLhyphen"/>low us to hope for the great end of the Pre<g ref="char:EOLhyphen"/>cept, I mean the applying our Hearts un<g ref="char:EOLhyphen"/>to Wiſdom, to an early Proviſion for that unknown State, which will ſoon begin but never have an end. For all great con<g ref="char:EOLhyphen"/>ſiderations and important Reſolutions re<g ref="char:EOLhyphen"/>quire time to ripen them; a certain degree of retirement to fix the Heart and take Root in it, which our Saviour intends by entring into our Cloſets; and on the con<g ref="char:EOLhyphen"/>trary, a ſad experience will not let us be Ignorant, that what is lightly undertak<g ref="char:EOLhyphen"/>en will be lightly purſued.</p>
+            <p>In particular, we are to turn this bright Example into an Advantage to our ſelves; for tho' the vertues it enforces are of the number of thoſe which make leaſt noiſe in the World, yet they are of moſt real uſe. Men indeed talk moſt loudly of their Conquerors, and Churches are ever moſt
+<pb n="22" facs="tcp:93317:16"/> diſturb'd by the heads of Parties and the Authors of Hereſies, but they get leaſt by theſe glorious Troublers of the Worlds repoſe of all Mankind beſides; the true ſupporters of Society, that make life a Bleſſing, are the humble and contented, who do their own buſineſs, and have a juſt ſenſe of Humane Condition, being full of Mercy and good Fruits. If then the Fame of theſe more retired vertues is not ſo great, yet ſtill it is better; for they leave no marks of their Oppreſſion behind them, nor are they purſued to their Graves by the Tears, if not the Curſes of the Miſe<g ref="char:EOLhyphen"/>rable. A greater Fame is indeed ſcattered into more Mouths, but it is a Trumpet that calls together Enemies as well as Friends; a good one is more approved of God and accepted of Men; and it ought not to be forgot, tho' the Leſſon be taught us by one of the loweſt inſtances of God's Providence, that his Holy Law takes
+<pb n="23" facs="tcp:93317:16"/> more care for Oxen that tread out the Corn in Peace, than for the Horſe which tramples it down in War.</p>
+            <p>To conclude, we are not to let all re<g ref="char:EOLhyphen"/>markable Events paſs over our heads with<g ref="char:EOLhyphen"/>out Obſervation, but are to gain by expe<g ref="char:EOLhyphen"/>rience, or elſe we make no uſe of our Rea<g ref="char:EOLhyphen"/>ſon. If then we think this our Intereſt, I hope that only faſhionable Argument will make it appear our Duty too. Awake therefore, ſays St. <hi>Paul,</hi> thou that Sleepeſt, <note place="margin">
+                  <hi>Eph.</hi> 5.</note> and ariſe from the Dead. Shake off thy Sloth, and behold the Crown which is reached out unto thee; do not abandon the care of thine own Preſervation, and ſhut thine Eyes againſt the light. In vain doſt thou continue among the Graves of Sin, and yet hope to find life among the dead; the works of Darkneſs will never lead thee to the Light inacceſſible; but if thou ſoweſt to the Fleſh, thou ſhalt of the Fleſh reap Corruption. Be wiſe therefore
+<pb n="28" facs="tcp:93317:17"/> for thy ſelf, O fooliſh dreamer, and make haſt to the Prize; for all the treaſures a<g ref="char:EOLhyphen"/>abov lie open to the hearts that are there, thou haſt but to deſire and to enjoy, and ſhalt happily find that a Reſurrection of the Soul will not fail to make a joyful one of the Body. And Bleſſed and Holy is he that hath his part in the firſt Reſurrection, on ſuch the ſecond Death hath no Power, but they ſhall be Prieſts of God and of Chriſt.</p>
+            <p>
+               <hi>Now to God the Father,</hi> &amp;c.</p>
+         </div>
+         <div type="text">
+            <head>INSCRIPTION on the Lady <hi>Gethins</hi> Monument.</head>
+            <p>TO the Pious Memory of Dame <hi>Grace Gethin,</hi> Wife of Sir <hi>Richard Gethin,</hi> of <hi>Gethin-Grott</hi> in <hi>Ireland,</hi> Knight and Bar<hi rend="sup">nt</hi> Daughter of Sir <hi>George Norton,</hi> and Grand-Daughter of Sir <hi>George Norton,</hi> Knights, and Great Grand-Daughter of Sir <hi>William Owen</hi> of <hi>Salop,</hi> Sir <hi>Thomas Freak</hi> of <hi>Dorſet,</hi> and Sir <hi>Thomas Culpeper</hi> of <hi>Kent,</hi> Knights. Who being Adorned with all Graces and Perfections of Mind and Body, Crown'd them all with Exemplary Patience and Humility; and having the day before her Death moſt devoutly receiv'd the <hi>Holy Communion,</hi> which ſhe ſaid, ſhe would not have omitted for ten thouſand Worlds; ſhe plainly evidenced her ſure and certain hope of fu<g ref="char:EOLhyphen"/>ture Bliſs; And thus continuing ſenſible to the laſt. She reſign'd her Pious Soul to God in fervent Tranſports of Spiritual Joy and Comfort, for her near Approach to the Heavenly Glory.</p>
+            <p>
+               <hi>Obiit October,</hi> in the Year of her Age 21 of our Lord, 1697.</p>
+            <pb facs="tcp:93317:17"/>
+         </div>
+      </body>
+   </text>
+</TEI>
